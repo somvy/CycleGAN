@@ -1,7 +1,7 @@
 # CycleGAN
 A CycleGAN implementation, what transmorms an landscape pic to sunset lanscape pic
 # Screenshots
- <img src="https://user-images.githubusercontent.com/45141221/84590782-1dd82300-ae42-11ea-85e0-ea71e9e53881.jpg" height="100" width="320"/>
+ <img src="https://user-images.githubusercontent.com/45141221/84590782-1dd82300-ae42-11ea-85e0-ea71e9e53881.jpg" height="200" width="600"/>
  ![img1](https://user-images.githubusercontent.com/45141221/84590782-1dd82300-ae42-11ea-85e0-ea71e9e53881.jpg)
 ![img3](https://user-images.githubusercontent.com/45141221/84590784-203a7d00-ae42-11ea-86c6-6b31498ee177.jpg)
 ![img2](https://user-images.githubusercontent.com/45141221/84590788-216baa00-ae42-11ea-9c6d-3b2bbf08377d.jpg)
